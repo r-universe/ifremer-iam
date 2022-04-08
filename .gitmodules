@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ifremer-iam/universe
 	shallow = true
 	branch = HEAD
+[submodule "IAM"]
+	path = IAM
+	url = https://gitlab.ifremer.fr/iam/iam
+	shallow = true
+	registered = true
